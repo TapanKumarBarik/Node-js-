@@ -58,3 +58,17 @@ console.log(hello);
 Synchronous codes are called blockign codes
 
 Asynchronous -- non blocking codes
+
+## Creating a WEB server
+
+```
+const http = require("http");
+
+const server = http.createServer((req, res) => {
+ returnres.end("hello from the server");
+});
+server.listen(3000, () => {
+ console.log("server is listening on post 3000");});
+```
+
+Sample
