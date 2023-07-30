@@ -38,7 +38,7 @@ Application with heavy server side processing (CPU Intensive)
 
 (RoR, PHP , Python)
 
-# REPL
+## REPL
 
 Read , evalute , print , load
 
@@ -52,3 +52,9 @@ Enter `.exit` to exit
 consthello = "Hello World";
 console.log(hello);
 ```
+
+# DAY-2
+
+Synchronous codes are called blockign codes
+
+Asynchronous -- non blocking codes
