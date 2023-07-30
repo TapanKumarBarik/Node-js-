@@ -37,3 +37,18 @@
 Application with heavy server side processing (CPU Intensive)
 
 (RoR, PHP , Python)
+
+# REPL
+
+Read , evalute , print , load
+
+Enter `node `on cmd line and you can use node on command line
+
+Enter `.exit` to exit
+
+## Write Hello World
+
+```
+consthello = "Hello World";
+console.log(hello);
+```
